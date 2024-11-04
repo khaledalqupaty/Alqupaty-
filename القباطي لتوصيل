@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>القباطي لتوصيل الطالبات</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        .contact-info {
+            margin: 20px 0;
+        }
+        .button {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>القباطي لتوصيل الطالبات</h1>
+    <p>أهلاً وسهلاً بكم في خدمتنا لتوصيل الطالبات.</p>
+
+    <div class="contact-info">
+        <p><strong>الاسم:</strong> خالد القباطي</p>
+        <p><strong>رقم الهاتف:</strong> 0559825563</p>
+        <p><strong>معلومات السيارة:</strong> باص H1 2018 جديد، مكيف، ثلاجة.</p>
+        <p>دقة في المواعيد وسرعة الاستجابة.</p>
+    </div>
+
+    <h2>للتواصل والحجز:</h2>
+    <a href="tel:0559825563" class="button">تواصل معنا</a>
+
+</body>
+</html>
